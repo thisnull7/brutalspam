@@ -54,3 +54,5 @@ cd brutalspam
 
 # install dependensi
 pip install -r requirements.txt
+🚀 RUN
+python otp.py
